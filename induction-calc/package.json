@@ -1,0 +1,2 @@
+{"name":"bs-induction-calc","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test tests.mjs wiring-tests.mjs cassette-tests.mjs"}}
+
